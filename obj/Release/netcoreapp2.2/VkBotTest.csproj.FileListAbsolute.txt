@@ -1,0 +1,13 @@
+C:\Work\C#\VKBots\bin\Release\netcoreapp2.2\VkBotTest.deps.json
+C:\Work\C#\VKBots\bin\Release\netcoreapp2.2\VkBotTest.runtimeconfig.json
+C:\Work\C#\VKBots\bin\Release\netcoreapp2.2\VkBotTest.runtimeconfig.dev.json
+C:\Work\C#\VKBots\bin\Release\netcoreapp2.2\VkBotTest.dll
+C:\Work\C#\VKBots\bin\Release\netcoreapp2.2\VkBotTest.pdb
+C:\Work\C#\VKBots\obj\Release\netcoreapp2.2\VkBotTest.csproj.CoreCompileInputs.cache
+C:\Work\C#\VKBots\obj\Release\netcoreapp2.2\VkBotTest.RazorAssemblyInfo.cache
+C:\Work\C#\VKBots\obj\Release\netcoreapp2.2\VkBotTest.RazorAssemblyInfo.cs
+C:\Work\C#\VKBots\obj\Release\netcoreapp2.2\VkBotTest.AssemblyInfoInputs.cache
+C:\Work\C#\VKBots\obj\Release\netcoreapp2.2\VkBotTest.AssemblyInfo.cs
+C:\Work\C#\VKBots\obj\Release\netcoreapp2.2\VkBotTest.RazorTargetAssemblyInfo.cache
+C:\Work\C#\VKBots\obj\Release\netcoreapp2.2\VkBotTest.dll
+C:\Work\C#\VKBots\obj\Release\netcoreapp2.2\VkBotTest.pdb
